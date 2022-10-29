@@ -2,3 +2,7 @@
 */
 !.gitignore
 !introR.R
+!.txt
+!.csv
+!.ipynb
+!.png
